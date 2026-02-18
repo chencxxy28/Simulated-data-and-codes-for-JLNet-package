@@ -26,7 +26,7 @@ head(simdata)
 5 10001    1     5     7.912472        1     4.918035
 6 10001    1     6     6.660966        1     4.918035
 ```
-We refer interested readers to following webiste for more detailed JLNet package description and tutorial.
+We refer interested readers to following webiste for more detailed JLNet package description, detailed functions, and tutorial.
 
 https://github.com/yilinzhang066/JLNet
 
